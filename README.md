@@ -6,6 +6,7 @@ Due to the large file size of the high-resolution videos, the dataset is hosted 
 * **Total Size:** ~4.3 GB
 * **Organization:** 
 "The dataset consists of 40 videos featuring 6 continuous driver actions: Smoking, Calling, Texting, Drinking, Yawning, and Talking."
+
 datasets/ # 40 videos
 
 ├── trainclip/ # 24 videos
