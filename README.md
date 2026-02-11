@@ -10,30 +10,30 @@ datasets/ # 40 videos
 
 ├── trainclip/ # 24 videos
 
-│   ├── 01_001_01_0_front.avi  # ID1 front view
+│        ├── 01_001_01_0_front.avi  # ID1 front view
 
-│   ├── 01_001_01_0_rear.avi   # ID1 rear view
+│        ├── 01_001_01_0_rear.avi   # ID1 rear view
 
-│   ├── 01_002_01_1_front.avi  # ID2_1 front view
+│        ├── 01_002_01_1_front.avi  # ID2_1 front view
 
-│   ├── 01_002_01_1_rear.avi   # ID2_1 rear view
+│        ├── 01_002_01_1_rear.avi   # ID2_1 rear view
 
-│   ├── ...
+│        ├── ...
 
-│   ├── 01_010_01_0_front.avi  # ID10 front view
+│        ├── 01_010_01_0_front.avi  # ID10 front view
 
-│   └── 01_010_01_0_rear.avi   # ID10 rear view
+│        └── 01_010_01_0_rear.avi   # ID10 rear view
 
 │
 
 └── testclip/ # 16 videos 
 
- |   ├── 01_011_01_0_front.avi  # ID11 front view
+      |   ├── 01_011_01_0_front.avi  # ID11 front view
     
- |   └── 01_011_01_0_rear.avi   # ID11 rear view
+      |   └── 01_011_01_0_rear.avi   # ID11 rear view
  
- |   ├── ...
+      |   ├── ...
     
- |   ├── 01_018_01_0_front.avi  # ID18 front view
+      |   ├── 01_018_01_0_front.avi  # ID18 front view
     
- |   └── 01_018_01_0_rear.avi   # ID18 rear view
+      |   └── 01_018_01_0_rear.avi   # ID18 rear view
