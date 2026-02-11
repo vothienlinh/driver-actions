@@ -27,7 +27,6 @@ datasets/ # 40 videos
 │
 
 └── testclip/ # 16 videos 
-
     ├── 01_011_01_0_front.avi  # ID11 front view
     
     └── 01_011_01_0_rear.avi   # ID11 rear view
