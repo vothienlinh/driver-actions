@@ -1,22 +1,22 @@
-#README.md
+# Ablation Study: YOLO + LSTM with Tracking Methods
 
-# Ablation Study: YOLO + LSTM with tracking methods
 ---
 
-# Driver Action Recognition – Ablation Study
+## Driver Action Recognition – Ablation Study
 
 This repository implements an ablation study for **driver action recognition** using different combinations of detection, tracking, and temporal modeling.
 
 The goal is to analyze the impact of:
 
 - YOLO detection
-- temporal modeling with LSTM
-- tracking (SORT / DeepSORT)
-- post-processing strategies
+- Temporal modeling with LSTM
+- Tracking (SORT / DeepSORT)
+- Post-processing strategies
 
 The experiments follow the **AI City Challenge Track 3: Naturalistic Driving Action Recognition** evaluation protocol.
 
 ---
+
 ## 1. Project Structure
 ablation_study/
 ├── configs/
