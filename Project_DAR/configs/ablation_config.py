@@ -22,7 +22,12 @@ YOLO_MODEL_PATH = os.path.join(
     "yolo",
     "bestv11n_250725.pt"
 )
-
+YOLO_PTQ_MODEL_PATH = os.path.join(
+    PROJECT_ROOT,
+    "weights",
+    "yolo",
+    "bestv11n_250725_int8.engine"
+)
 LSTM_MODEL_PATH = os.path.join(
     PROJECT_ROOT,
     "weights",
