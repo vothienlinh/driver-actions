@@ -1,4 +1,4 @@
-![Framework](framework.pnp)
+![Framework](FrameworkDiagram_v1.png)
 # driver-actions
 Videos containing driver distraction activities
 ## Dataset
