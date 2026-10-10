@@ -18,6 +18,7 @@ The experiments follow the **AI City Challenge Track 3: Naturalistic Driving Act
 ---
 
 ## 1. Project Structure
+
 ablation_study/
 ├── configs/
 │ └── ablation_config.py
@@ -62,11 +63,6 @@ ablation_study/
 │ ├── inference_and_save_csv/
 │ └── visualize_videos_from_csv/
 └── README.md
-
----
-
-
----
 
 ## 2. Pipeline
 
