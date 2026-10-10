@@ -1,5 +1,6 @@
-# Overview
-![# Overview of the proposed driver activity recognition framework: [Detection-based fusion scheme for driver action recognition]](FrameworkDiagram_v1.png)
+# Framework
+![Framework_v1](FrameworkDiagram_v1.png)
+* Overview of the proposed driver activity recognition framework[Detection-based fusion scheme for driver action recognition]***
 # driver-actions
 Videos containing driver distraction activities
 ## Dataset
