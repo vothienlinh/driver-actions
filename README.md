@@ -1,7 +1,8 @@
 # Framework
 ![Framework_v1](FrameworkDiagram_v1.png)
 * Overview of the proposed driver activity recognition framework[Detection-based fusion scheme for driver action recognition]
-Figure 1 presents a four-stage driver action recognition framework: YOLOv11 detects 10 classes (six distracted postures, three task-related objects, and open mouth) with SORT/DeepSORT tracking to compensate for missed detections; a rule-based aggregation combines postures and objects into actions (e.g., smoking = smoking posture + cigarette); an LSTM extends frame-level results to sequence-level recognition; and post-processing locates the temporal boundaries of each action.
+
+This framework presents a four-stage driver action recognition framework: YOLOv11 detects 10 classes (six distracted postures, three task-related objects, and open mouth) with SORT/DeepSORT tracking to compensate for missed detections; a rule-based aggregation combines postures and objects into actions (e.g., smoking = smoking posture + cigarette); an LSTM extends frame-level results to sequence-level recognition; and post-processing locates the temporal boundaries of each action.
 # driver-actions
 Videos containing driver distraction activities
 ## Dataset
